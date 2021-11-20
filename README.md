@@ -1,2 +1,9 @@
 # mxtorie-v2
-Leak mxtorie bot discord / anti raid ; multi-fonction
+👋 Hey  
+Leak of Mxtorie V2
+
+Bot multi-fonction
+
+dev by Jeotique
+
+Leaked By Keisel ❤️
