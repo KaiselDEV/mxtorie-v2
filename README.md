@@ -7,3 +7,6 @@ Bot multi-fonction
 dev by Jeotique
 
 Leaked By Keisel ❤️
+
+A multi-function Discord bot
+
